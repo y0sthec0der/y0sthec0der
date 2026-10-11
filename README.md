@@ -1,4 +1,4 @@
-i am a programmer engaged to computing since i was 16.
+i am a programmer engaged in computing since i was 16.
 
 my goals are relatively simple. to test, prove and improve. if i somehow get inspiration, i might craft something.
 
