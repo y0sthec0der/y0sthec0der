@@ -1,3 +1,5 @@
-Yo!
+i am a programmer engaged to computing since i was 16.
 
-I'm Josias, coding since 2016, despite some breaks (lazy). I use coding to demonstrate and prove concepts, that's my thing... uh, does it sound like an engineer, uhmm?!
+my goals are relatively simple. to test, prove and improve. if i somehow get inspiration, i might craft something.
+
+today i have preferred to learn and work with linux, clang and python. but i have familiarity on batch (cmd) scripting, web developing, os automation in general.
